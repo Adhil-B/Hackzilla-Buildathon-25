@@ -1,0 +1,5 @@
+{
+  "/dashboard/certificates": [
+    "static/chunks/pages/dashboard/certificates.js"
+  ]
+}

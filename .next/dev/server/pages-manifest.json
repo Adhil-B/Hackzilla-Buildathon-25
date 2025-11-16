@@ -1,0 +1,21 @@
+{
+  "/": "pages/index.js",
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/_error": "pages/_error.js",
+  "/dashboard/certificates": "pages/dashboard/certificates.js",
+  "/dashboard/faculty": "pages/dashboard/faculty.js",
+  "/dashboard/faculty/review/certificate": "pages/dashboard/faculty/review/certificate.js",
+  "/dashboard/faculty/reviews": "pages/dashboard/faculty/reviews.js",
+  "/dashboard/institution": "pages/dashboard/institution.js",
+  "/dashboard/institution/accounts": "pages/dashboard/institution/accounts.js",
+  "/dashboard/institution/department/[id]": "pages/dashboard/institution/department/[id].js",
+  "/dashboard/institution/departments": "pages/dashboard/institution/departments.js",
+  "/dashboard/student": "pages/dashboard/student.js",
+  "/login": "pages/login.js",
+  "/portfolio/[studentId]": "pages/portfolio/[studentId].js",
+  "/profile": "pages/profile.js",
+  "/settings": "pages/settings.js",
+  "/signup": "pages/signup.js",
+  "/signup/success": "pages/signup/success.js"
+}

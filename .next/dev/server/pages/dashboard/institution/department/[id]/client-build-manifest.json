@@ -1,0 +1,5 @@
+{
+  "/dashboard/institution/department/[id]": [
+    "static/chunks/pages/dashboard/institution/department/[id].js"
+  ]
+}
