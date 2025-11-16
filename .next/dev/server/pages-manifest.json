@@ -15,7 +15,5 @@
   "/login": "pages/login.js",
   "/portfolio/[studentId]": "pages/portfolio/[studentId].js",
   "/profile": "pages/profile.js",
-  "/settings": "pages/settings.js",
-  "/signup": "pages/signup.js",
-  "/signup/success": "pages/signup/success.js"
+  "/settings": "pages/settings.js"
 }

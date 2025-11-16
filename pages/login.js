@@ -54,7 +54,7 @@ export default function Login() {
         {/* Header */}
         <div className="w-full max-w-sm mb-8">
           <div className="text-center">
-            <h1 className="text-2xl font-semibold text-gray-900 mb-2">Login to Credify</h1>
+            <h1 className="text-2xl font-semibold text-gray-900 mb-2 mt-6">Login to Credify</h1>
             <p className="text-gray-500 text-sm">Enter your credentials to continue</p>
           </div>
         </div>

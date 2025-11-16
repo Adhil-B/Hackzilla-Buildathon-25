@@ -6,17 +6,17 @@
   "rootMainFiles": [],
   "pages": {
     "/_error": [
-      "static/chunks/f97d1_next_dist_compiled_d9043a23._.js",
-      "static/chunks/f97d1_next_dist_shared_lib_67411fec._.js",
-      "static/chunks/f97d1_next_dist_client_f970dd20._.js",
-      "static/chunks/f97d1_next_dist_fc1e8af5._.js",
-      "static/chunks/f97d1_next_error_c19c8703.js",
-      "static/chunks/[next]_entry_page-loader_ts_c92fd00f._.js",
-      "static/chunks/f97d1_react-dom_d3951c82._.js",
-      "static/chunks/f97d1_1662e4d9._.js",
-      "static/chunks/[root-of-the-server]__1bc9ea0a._.js",
-      "static/chunks/Q Buildathon_pages__error_2da965e7._.js",
-      "static/chunks/turbopack-Q Buildathon_pages__error_f9b6931e._.js"
+      "static/chunks/92dca_next_dist_compiled_a666a229._.js",
+      "static/chunks/92dca_next_dist_shared_lib_ba1a1cb7._.js",
+      "static/chunks/92dca_next_dist_client_d4197abf._.js",
+      "static/chunks/92dca_next_dist_cb467537._.js",
+      "static/chunks/92dca_next_error_ec8f9ea3.js",
+      "static/chunks/[next]_entry_page-loader_ts_5b706111._.js",
+      "static/chunks/92dca_react-dom_e12d0bcb._.js",
+      "static/chunks/92dca_eb7e1bf1._.js",
+      "static/chunks/[root-of-the-server]__70c33f09._.js",
+      "static/chunks/Q-Buildatho_pages__error_2da965e7._.js",
+      "static/chunks/turbopack-Q-Buildatho_pages__error_dbab002c._.js"
     ]
   },
   "ampFirstPages": []

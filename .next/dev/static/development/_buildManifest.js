@@ -44,12 +44,6 @@ self.__BUILD_MANIFEST = {
   "/settings": [
     "static/chunks/pages/settings.js"
   ],
-  "/signup": [
-    "static/chunks/pages/signup.js"
-  ],
-  "/signup/success": [
-    "static/chunks/pages/signup/success.js"
-  ],
   "__rewrites": {
     "afterFiles": [],
     "beforeFiles": [],

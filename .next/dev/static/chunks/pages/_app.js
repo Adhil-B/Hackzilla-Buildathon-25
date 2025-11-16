@@ -1,12 +1,12 @@
 __turbopack_load_page_chunks__("/_app", [
-  "static/chunks/f97d1_next_dist_compiled_d9043a23._.js",
-  "static/chunks/f97d1_next_dist_shared_lib_48e9eecc._.js",
-  "static/chunks/f97d1_next_dist_client_f970dd20._.js",
-  "static/chunks/f97d1_next_dist_d8b42641._.js",
-  "static/chunks/f97d1_react-dom_d3951c82._.js",
-  "static/chunks/f97d1_a746e579._.js",
-  "static/chunks/[root-of-the-server]__d314c0d5._.js",
-  "static/chunks/Q Buildathon_styles_globals_74466487.css",
-  "static/chunks/Q Buildathon_pages__app_2da965e7._.js",
-  "static/chunks/turbopack-Q Buildathon_pages__app_4513d48d._.js"
+  "static/chunks/92dca_next_dist_compiled_a666a229._.js",
+  "static/chunks/92dca_next_dist_shared_lib_0b60d708._.js",
+  "static/chunks/92dca_next_dist_client_d4197abf._.js",
+  "static/chunks/92dca_next_dist_caf3776c._.js",
+  "static/chunks/92dca_react-dom_e12d0bcb._.js",
+  "static/chunks/92dca_cba8b059._.js",
+  "static/chunks/[root-of-the-server]__90c961ac._.js",
+  "static/chunks/Q-Buildatho_styles_globals_bd49d48b.css",
+  "static/chunks/Q-Buildatho_pages__app_2da965e7._.js",
+  "static/chunks/turbopack-Q-Buildatho_pages__app_8a80c90d._.js"
 ])
