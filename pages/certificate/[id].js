@@ -129,7 +129,7 @@ export default function CertificateDetail() {
                 </svg>
               </div>
               <div>
-                <h2 className="font-semibold text-gray-900">{certificate.title}</h2>
+                <h2 className="font-semibold text-gray-900 max-w-[80%]">{certificate.title}</h2>
                 <p className="text-sm text-gray-500 capitalize">{certificate.type}</p>
               </div>
             </div>
