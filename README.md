@@ -1,4 +1,4 @@
-# Credify Project Summary
+# Credify
 
 ## Project Overview
 
@@ -64,38 +64,14 @@ credify/
 ├── styles/              # Global styles
 │   └── globals.css      # Global CSS styles
 ├── utils/               # Utility functions and mock data
-│   └── mockData.js      # Mock data for demo
+│   └── data.js      # Mock data for demo
 ├── package.json         # Project dependencies
 ├── next.config.js       # Next.js configuration
 ├── tailwind.config.js   # Tailwind CSS configuration
 ├── postcss.config.js    # PostCSS configuration
 ├── vercel.json          # Vercel deployment configuration
-├── .env.example         # Environment variables example
-├── README.md            # Project documentation
-└── PROJECT_SUMMARY.md   # This file
+└── README.md   # This file
 ```
-
-## How to Run the Project
-
-### Prerequisites
-
-1. Node.js version 20.9.0 or higher
-2. npm or yarn package manager
-
-### Setup Instructions
-
-1. **Install Dependencies**:
-   ```bash
-   npm install
-   ```
-
-2. **Run Development Server**:
-   ```bash
-   npm run dev
-   ```
-
-3. **Access the Application**:
-   Open [http://localhost:3000](http://localhost:3000) in your browser
 
 ### Deployment
 
