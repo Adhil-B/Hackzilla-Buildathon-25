@@ -269,7 +269,7 @@ export default function StudentResume() {
                                 </div>
                                 <div className="flex-1">
                                   <div className="flex flex-wrap items-center justify-between">
-                                    <h3 className="font-semibold text-gray-900">{cert.title}</h3>
+                                    <h3 className="font-semibold text-gray-900 max-w-[80%]">{cert.title}</h3>
                                     <span className="font-bold text-green-600">+{cert.credits}</span>
                                   </div>
                                   <div className="flex flex-wrap items-center text-sm text-gray-500 mt-1">

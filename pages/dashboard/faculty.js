@@ -63,7 +63,7 @@ export default function FacultyDashboard() {
                 </span>
               </div>
               <div>
-                <p className="text-sm text-gray-500">Hi, {facultyData.name.split(' ')[0]}</p>
+                <p className="text-sm text-gray-500">Hi, {facultyData.name.split(' ')[1]}</p>
                 <p className="text-xs text-gray-400">{facultyData.department}</p>
               </div>
             </div>
