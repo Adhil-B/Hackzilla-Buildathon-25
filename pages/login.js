@@ -160,7 +160,7 @@ export default function Login() {
         </div>
 
         {/* App Logo/Name */}
-        <div className="absolute bottom-8 text-center">
+        <div className="absolute bottom-8 text-center hidden">
           <h2 className="text-lg font-semibold text-gray-800">Credify</h2>
           <p className="text-xs text-gray-500">Certificate Verification Platform</p>
         </div>
