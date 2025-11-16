@@ -195,7 +195,7 @@ export default function StudentDashboard() {
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 14l-7 7m0 0l-7-7m7 7V3"></path>
                   </svg>
                 </div>
-                <span className="text-sm text-green-600 font-medium">Credits Earned</span>
+                <span className="text-sm text-green-600 font-medium">Credits</span>
               </div>
               <p className="text-lg font-bold text-green-700">{studentData.creditsEarned}</p>
             </div>
